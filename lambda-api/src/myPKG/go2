@@ -1,0 +1,6 @@
+package myPKG
+
+//Message is just testing how go build the go file
+func Message() string {
+	return "this is message from go2.go"
+}
